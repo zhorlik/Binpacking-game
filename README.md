@@ -17,8 +17,8 @@ Az FFD solution a first fit decreasing közelítő algoritmust (ilyen kis imputo
 A BFD solution a best fit decreasing közelítő algoritmust alkalmazva bepakolja a ládákba az elemeket. 
 Ezeknek a megoldásait tekintjük jó megoldásnak, mivel ilyen kis imputokra optimális megoldást adnak. 
 A Check gomb leellenőrzi a megoldásunkat:
+Ha túl sok dobozt használtunk fel: "You used too many bins... get back to work!" 
+Ha az elemek ütköznek: "Stacking items on top of each other? This isn't Jenga, my friend?" 
+Ha kihagytunk valamit: "Keeping items untouched, are we? Keeping things minimalist, huh?" 
 
-  Ha túl sok dobozt használtunk fel: "You used too many bins... get back to work!" 
-  Ha az elemek ütköznek: "Stacking items on top of each other? This isn't Jenga, my friend?" 
-  Ha kihagytunk valamit: "Keeping items untouched, are we? Keeping things minimalist, huh?" 
 Ha úgy gondoljuk elég volt, akkor a Back to Menu gombbal vissza mehetünk a menübe.
